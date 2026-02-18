@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskacg.github.io/bethel-mining-company/sitemap.xml
+Sitemap: https://bethelminingcompany.com/sitemap.xml
